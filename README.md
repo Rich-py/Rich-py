@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Richard 👋
 
-<!--
-**Rich-py/Rich-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud/DevOps engineer in the making — transitioning from enterprise Linux infrastructure to AWS cloud engineering.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Nearly 2 years as an Associate Systems Engineer at Kyndryl, managing large-scale enterprise Linux infrastructure
+🎓 Currently completing a Master of IT at RMIT University, Melbourne (graduating late 2026)
+☁️ Focused on Cloud and DevOps roles — AWS, Docker, CI/CD, and infrastructure automation
+📚 Currently working through Microsoft AZ-104 and the Microsoft AI Skills Challenge
+🏗️ Background: B.Eng in Computer Science (ranked 4th of 200, CGPA 8.94/10)
+
+
+
+Flagship project — AWS Cloud Music Subscription App
+A cloud-native music platform built with three parallel backend architectures (EC2, ECS/Fargate, and Lambda) to compare deployment models — integrating DynamoDB, S3, Docker, and API Gateway.
+
+
+📫 Let's connect: LinkedIn · Email
