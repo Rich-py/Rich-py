@@ -1,18 +1,93 @@
-Hi, I'm Richard 👋
+# Hi, I'm Richard 👋
 
-Cloud/DevOps engineer in the making — transitioning from enterprise Linux infrastructure to AWS cloud engineering.
+### Cloud | DevOps | Software Engineer
 
+Master of Information Technology student at **RMIT University** with nearly **2 years of enterprise Linux infrastructure experience** as an Associate Systems Engineer at **Kyndryl**.
 
-🔧 Nearly 2 years as an Associate Systems Engineer at Kyndryl, managing large-scale enterprise Linux infrastructure
-🎓 Currently completing a Master of IT at RMIT University, Melbourne (graduating late 2026)
-☁️ Focused on Cloud and DevOps roles — AWS, Docker, CI/CD, and infrastructure automation
-📚 Currently working through Microsoft AZ-104 and the Microsoft AI Skills Challenge
-🏗️ Background: B.Eng in Computer Science (ranked 4th of 200, CGPA 8.94/10)
+I'm passionate about building scalable cloud-native applications, backend systems, and reliable infrastructure. I'm currently focused on AWS, backend software engineering, DevOps, automation, and distributed systems while preparing for graduate Cloud, DevOps, and Software Engineering roles.
 
+---
 
+## About Me
 
-Flagship project — AWS Cloud Music Subscription App
-A cloud-native music platform built with three parallel backend architectures (EC2, ECS/Fargate, and Lambda) to compare deployment models — integrating DynamoDB, S3, Docker, and API Gateway.
+- 🎓 Master of Information Technology — RMIT University (Expected Nov 2026)
+- 💼 Former Associate Systems Engineer at Kyndryl
+- ☁️ Nearly 2 years managing enterprise Linux infrastructure supporting 16,000+ production servers
+- 🚀 Interested in Cloud Engineering, DevOps, Backend Development, and Software Engineering
+- 📚 Currently strengthening Data Structures & Algorithms, System Design, and Cloud Architecture
 
+---
 
-📫 Let's connect: LinkedIn · Email
+## Tech Stack
+
+### Languages
+
+Java • Python • JavaScript • SQL • Bash
+
+### Cloud
+
+AWS EC2 • ECS/Fargate • Lambda • API Gateway • S3 • DynamoDB • CloudFront • IAM
+
+### DevOps & Infrastructure
+
+Docker • Linux (RHEL & Ubuntu) • Git • GitHub Actions • Ansible • CI/CD
+
+### Databases
+
+MySQL • MongoDB • DynamoDB • SQLite
+
+### Frameworks & Tools
+
+Node.js • Express.js • JavaFX • JDBC • JUnit
+
+---
+
+## Featured Projects
+
+### ☁️ AWS Cloud Music Platform
+
+Cloud-native music subscription application deployed using three AWS architectures (EC2, ECS/Fargate, and Lambda) to compare scalability, deployment complexity, and operational cost.
+
+**Technologies**
+
+AWS • Docker • ECS • EC2 • Lambda • DynamoDB • API Gateway • S3 • CloudFront • Python
+
+---
+
+### 🏥 CareHome Management System
+
+Desktop healthcare management application featuring role-based access control, resident management, medication administration, staff roster management, SQLite persistence, and healthcare compliance validation.
+
+**Technologies**
+
+Java • JavaFX • SQLite • JDBC • DAO Pattern • JUnit
+
+---
+
+### 🏡 Airbnb Booking System
+
+Full-stack property booking application supporting listing search, booking management, and real-time availability validation using MongoDB Atlas.
+
+**Technologies**
+
+Node.js • Express.js • MongoDB Atlas • JavaScript • HTML • REST API
+
+---
+
+## Currently Learning
+
+- AWS Cloud Architecture
+- Backend System Design
+- Data Structures & Algorithms
+- Kubernetes
+- CI/CD Best Practices
+
+---
+
+## Let's Connect
+
+💼 LinkedIn  
+https://www.linkedin.com/in/richard-paul-john-rathnaraj-936215222/
+
+📧 Email  
+richardj.paul24@gmail.com
