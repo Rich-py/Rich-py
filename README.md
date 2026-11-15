@@ -4,7 +4,7 @@
 
 RMIT University Master of IT graduate with **1.5 years of enterprise Linux infrastructure experience** as an Associate Technical Engineer at **Kyndryl**, where I supported 16,000+ production servers for a Fortune 50 healthcare client.
 
-I like building on AWS and explaining why a system is designed the way it is. For my capstone, the client asked me to choose the AI service: I recommended Amazon Bedrock with Nova Micro, built AI coding hints and a course chatbot, and deployed the platform on AWS.
+I build and deploy applications on AWS: containers on ECS and EC2, serverless APIs with Lambda, and generative AI features with Amazon Bedrock. I care about secure, cost-aware design, and I automate repetitive infrastructure work wherever I can.
 
 ---
 
@@ -43,7 +43,7 @@ React • Node.js • Express.js • Flask • JavaFX • JUnit
 
 ## Featured Projects
 
-### 🤖 Platypus Programming Platform: Generative AI on AWS ([case study](https://github.com/Rich-py/platypus-aws-bedrock-case-study))
+### 🤖 [Platypus Programming Platform: Generative AI on AWS](https://github.com/Rich-py/platypus-aws-bedrock-case-study)
 
 RMIT capstone. I owned the AI learning features on Amazon Bedrock (Nova Micro), the AWS deployment (EC2, ECR, Application Load Balancer, least-privilege IAM role with no static keys) and in-browser Python execution with Pyodide. The source code belongs to RMIT, so the repo is a write-up with the architecture diagram.
 
@@ -53,7 +53,7 @@ AWS • Amazon Bedrock • EC2 • ECR • ALB • IAM • Docker Compose • Ng
 
 ---
 
-### ☁️ AWS Cloud Music Platform
+### ☁️ [AWS Cloud Music Platform](https://github.com/Rich-py/aws-cloud-music-app)
 
 RMIT Cloud Computing project: one music subscription app built on three AWS compute options (EC2, ECS/Fargate and Lambda) and compared on cost, scalability and operational effort. I built the ECS backend: a Flask REST API in Docker, running on Fargate behind a load balancer, using DynamoDB.
 
@@ -63,7 +63,7 @@ AWS • ECS/Fargate • ECR • ALB • EC2 • Lambda • API Gateway • Dynam
 
 ---
 
-### 🏥 CareHome Management System
+### 🏥 [CareHome Management System](https://github.com/Rich-py/carehome-management-system)
 
 Desktop healthcare management application featuring role-based access control, resident management, medication administration, staff roster management, SQLite persistence, and healthcare compliance validation.
 
@@ -73,21 +73,9 @@ Java • JavaFX • SQLite • JDBC • DAO Pattern • JUnit
 
 ---
 
-### 🏡 Airbnb Booking System
-
-Full-stack property booking application supporting listing search, booking management, and real-time availability validation using MongoDB Atlas.
-
-**Technologies**
-
-Node.js • Express.js • MongoDB Atlas • JavaScript • HTML • REST API
-
----
-
 ## Currently Learning
 
 - AWS Solutions Architecture
-- Terraform and Infrastructure as Code
-- Kubernetes
 - Generative AI on AWS
 
 ---
