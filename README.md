@@ -1,56 +1,65 @@
 # Hi, I'm Richard 👋
 
-### Cloud | DevOps | Software Engineer
+### Cloud Engineer | AWS · Generative AI · DevOps
 
-Master of Information Technology student at **RMIT University** with nearly **2 years of enterprise Linux infrastructure experience** as an Associate Systems Engineer at **Kyndryl**.
+RMIT University Master of IT graduate with **1.5 years of enterprise Linux infrastructure experience** as an Associate Technical Engineer at **Kyndryl**, where I supported 16,000+ production servers for a Fortune 50 healthcare client.
 
-I'm passionate about building scalable cloud-native applications, backend systems, and reliable infrastructure. I'm currently focused on AWS, backend software engineering, DevOps, automation, and distributed systems while preparing for graduate Cloud, DevOps, and Software Engineering roles.
+I like building on AWS and explaining why a system is designed the way it is. For my capstone, the client asked me to choose the AI service: I recommended Amazon Bedrock with Nova Micro, built AI coding hints and a course chatbot, and deployed the platform on AWS.
 
 ---
 
 ## About Me
 
-- 🎓 Master of Information Technology — RMIT University (Expected Nov 2026)
-- 💼 Former Associate Systems Engineer at Kyndryl
-- ☁️ Nearly 2 years managing enterprise Linux infrastructure supporting 16,000+ production servers
-- 🚀 Interested in Cloud Engineering, DevOps, Backend Development, and Software Engineering
-- 📚 Currently strengthening Data Structures & Algorithms, System Design, and Cloud Architecture
+- 🎓 Master of Information Technology, RMIT University (graduating Dec 2026)
+- 💼 Former Associate Technical Engineer at Kyndryl
+- ⚙️ Co-developed Ansible playbooks that automated OS patching and cut patch cycle time by about 70%
+- 🚀 Looking for graduate and junior roles in Cloud Engineering, Solutions Architecture, and Cloud & AI Engineering
 
 ---
 
 ## Tech Stack
 
-### Languages
-
-Java • Python • JavaScript • SQL • Bash
-
 ### Cloud
 
-AWS EC2 • ECS/Fargate • Lambda • API Gateway • S3 • DynamoDB • CloudFront • IAM
+AWS EC2 • ECS/Fargate • ECR • Lambda • API Gateway • Application Load Balancer • S3 • DynamoDB • IAM • Amazon Bedrock
 
 ### DevOps & Infrastructure
 
-Docker • Linux (RHEL & Ubuntu) • Git • GitHub Actions • Ansible • CI/CD
+Docker • Docker Compose • Nginx • Linux (RHEL & Ubuntu) • Ansible • Git • GitHub Actions
+
+### Languages
+
+Python • TypeScript • JavaScript • Java • SQL • Bash
 
 ### Databases
 
-MySQL • MongoDB • DynamoDB • SQLite
+PostgreSQL • Redis • DynamoDB • MongoDB • MySQL • SQLite
 
 ### Frameworks & Tools
 
-Node.js • Express.js • JavaFX • JDBC • JUnit
+React • Node.js • Express.js • Flask • JavaFX • JUnit
 
 ---
 
 ## Featured Projects
 
-### ☁️ AWS Cloud Music Platform
+### 🤖 Platypus Programming Platform: Generative AI on AWS ([case study](https://github.com/Rich-py/platypus-aws-bedrock-case-study))
 
-Cloud-native music subscription application deployed using three AWS architectures (EC2, ECS/Fargate, and Lambda) to compare scalability, deployment complexity, and operational cost.
+RMIT capstone. I owned the AI learning features on Amazon Bedrock (Nova Micro), the AWS deployment (EC2, ECR, Application Load Balancer, least-privilege IAM role with no static keys) and in-browser Python execution with Pyodide. The source code belongs to RMIT, so the repo is a write-up with the architecture diagram.
 
 **Technologies**
 
-AWS • Docker • ECS • EC2 • Lambda • DynamoDB • API Gateway • S3 • CloudFront • Python
+AWS • Amazon Bedrock • EC2 • ECR • ALB • IAM • Docker Compose • Nginx • React • TypeScript • PostgreSQL • Redis
+
+---
+
+### ☁️ AWS Cloud Music Platform
+
+RMIT Cloud Computing project: one music subscription app built on three AWS compute options (EC2, ECS/Fargate and Lambda) and compared on cost, scalability and operational effort. I built the ECS backend: a Flask REST API in Docker, running on Fargate behind a load balancer, using DynamoDB.
+
+**Technologies**
+
+AWS • ECS/Fargate • ECR • ALB • EC2 • Lambda • API Gateway • DynamoDB • S3 • Docker • Python/Flask
 
 ---
 
@@ -76,11 +85,10 @@ Node.js • Express.js • MongoDB Atlas • JavaScript • HTML • REST API
 
 ## Currently Learning
 
-- AWS Cloud Architecture
-- Backend System Design
-- Data Structures & Algorithms
+- AWS Solutions Architecture
+- Terraform and Infrastructure as Code
 - Kubernetes
-- CI/CD Best Practices
+- Generative AI on AWS
 
 ---
 
